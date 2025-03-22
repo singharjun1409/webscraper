@@ -1,26 +1,26 @@
-Name,Symbol,Price,Change
-Ford Motor Company,F,10.00,-0.01
-NVIDIA Corporation,NVDA,117.70,-0.83
-"Tesla, Inc.",TSLA,248.71,+12.45
-Palantir Technologies Inc.,PLTR,90.96,+3.57
-Apple Inc.,AAPL,218.27,+4.17
-"Lucid Group, Inc.",LCID,2.4200,+0.1400
-NIO Inc.,NIO,4.5000,-0.2100
-Intel Corporation,INTC,24.26,+0.30
-U.S. Bancorp,USB,42.84,+0.23
-Viatris Inc.,VTRS,9.15,-0.29
-V.F. Corporation,VFC,16.37,+0.12
-Pfizer Inc.,PFE,26.28,+0.09
-"Cisco Systems, Inc.",CSCO,60.30,-0.32
-Amcor plc,AMCR,9.44,-0.28
-"NIKE, Inc.",NKE,67.94,-3.92
-Nu Holdings Ltd.,NU,11.59,+0.19
-"Amazon.com, Inc.",AMZN,196.21,+1.26
-"Super Micro Computer, Inc.",SMCI,42.15,+3.05
-BorgWarner Inc.,BWA,28.70,-0.25
-"Micron Technology, Inc.",MU,94.72,-8.28
-ConocoPhillips,COP,101.92,-0.39
-"Mitsubishi UFJ Financial Group, Inc.",MUFG,14.98,+0.65
-Carnival Corporation & plc,CCL,20.94,-0.26
-Hewlett Packard Enterprise Company,HPE,16.05,-0.05
-"Rigetti Computing, Inc.",RGTI,9.07,+0.08
+Symbol,Name,Price,Change,Change %,Volume,Avg Vol (3M),Market Cap,P/E Ratio (TTM),52 Wk Change %
+F,Ford Motor Company,10.00,-0.01,-0.10%,240.188M,90.938M,39.635B,6.85,-22.48%
+NVDA,NVIDIA Corporation,117.70,-0.83,-0.70%,263.62M,271.988M,2.892T,40.03,23.89%
+TSLA,"Tesla, Inc.",248.71,+12.45,+5.27%,130.939M,89.178M,799.981B,121.92,44.07%
+PLTR,Palantir Technologies Inc.,90.96,+3.57,+4.09%,115.483M,96.434M,213.334B,478.74,271.11%
+AAPL,Apple Inc.,218.27,+4.17,+1.95%,93.388M,52.181M,3.279T,34.59,27.76%
+LCID,"Lucid Group, Inc.",2.4200,+0.1400,+6.14%,97.116M,94.714M,7.336B,-,-17.12%
+NIO,NIO Inc.,4.5000,-0.2100,-4.46%,79.593M,53.506M,9.655B,-,-8.35%
+INTC,Intel Corporation,24.26,+0.30,+1.25%,93.766M,98.513M,105.046B,-,-42.00%
+USB,U.S. Bancorp,42.84,+0.23,+0.54%,68.988M,10.299M,66.745B,11.30,-1.63%
+VTRS,Viatris Inc.,9.15,-0.29,-3.07%,67.661M,12.571M,10.922B,-,-22.65%
+VFC,V.F. Corporation,16.37,+0.12,+0.74%,65.333M,7.199M,6.377B,-,13.13%
+PFE,Pfizer Inc.,26.28,+0.09,+0.34%,65.968M,43.806M,149.046B,18.64,-4.19%
+CSCO,"Cisco Systems, Inc.",60.30,-0.32,-0.53%,62.397M,19.898M,241.164B,26.45,21.38%
+AMCR,Amcor plc,9.44,-0.28,-2.88%,61.913M,21.093M,14.049B,17.16,1.61%
+NKE,"NIKE, Inc.",67.94,-3.92,-5.46%,77.186M,13.847M,106.29B,22.57,-27.53%
+NU,Nu Holdings Ltd.,11.59,+0.19,+1.67%,60.501M,47.661M,55.708B,28.98,-4.77%
+AMZN,"Amazon.com, Inc.",196.21,+1.26,+0.65%,59.958M,38.226M,2.079T,35.48,9.18%
+SMCI,"Super Micro Computer, Inc.",42.15,+3.05,+7.80%,63.617M,71.249M,25.015B,18.33,-59.58%
+BWA,BorgWarner Inc.,28.70,-0.25,-0.86%,55.738M,3.405M,6.305B,17.61,-13.48%
+MU,"Micron Technology, Inc.",94.72,-8.28,-8.04%,62.583M,22.411M,114.76B,22.66,-19.13%
+COP,ConocoPhillips,101.92,-0.39,-0.38%,55.09M,8.316M,129.681B,13.05,-19.26%
+MUFG,"Mitsubishi UFJ Financial Group, Inc.",14.98,+0.65,+4.54%,54.969M,5.6M,172.818B,13.38,42.94%
+CCL,Carnival Corporation & plc,20.94,-0.26,-1.23%,48.518M,23.2M,27.415B,13.51,22.38%
+HPE,Hewlett Packard Enterprise Company,16.05,-0.05,-0.31%,47.405M,17.016M,21.083B,7.72,-7.86%
+RGTI,"Rigetti Computing, Inc.",9.07,+0.08,+0.89%,58.212M,124.734M,2.592B,-,453.05%
