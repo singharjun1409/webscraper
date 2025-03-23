@@ -1,0 +1,3 @@
+([('main',
+   '/Users/arjun/Desktop/Programs/webscraper/dist/main',
+   'EXECUTABLE')],)
