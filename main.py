@@ -51,3 +51,5 @@ with open('stocks.csv', 'w', newline='') as output:
 
 # close the browser and free up the resources
 driver.quit()
+
+""" Data Analysis"""
