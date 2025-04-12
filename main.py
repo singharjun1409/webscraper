@@ -6,7 +6,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 import csv
-# from selenium.common import TimeoutException
+
 
 # Setup
 options = Options()
@@ -15,8 +15,6 @@ driver = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install())
 driver.set_window_size(1920, 1080)
 url = "https://finance.yahoo.com/markets/stocks/most-active/"
 driver.get(url)
-
-
 
 # scraping logic...
 WebDriverWait(driver, 3)
@@ -52,4 +50,4 @@ with open('stocks.csv', 'w', newline='') as output:
 # close the browser and free up the resources
 driver.quit()
 
-""" Data Analysis"""
+""" Data Analysis: run analysis.py AFTER main.py"""
